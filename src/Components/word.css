@@ -1,0 +1,23 @@
+.box-word {
+    width: 100%;
+}
+
+.word-txt { 
+    margin-top: 10px;
+}
+
+.title-word {
+    font-size: 20px;
+    font-weight: bold;
+    color: #000;
+}
+.text-word{
+    font-size: 16px;
+    color: #000;
+}
+.img-word{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin-right: 10px;
+}
